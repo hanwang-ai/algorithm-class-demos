@@ -1,6 +1,6 @@
 # Data Structures — Classroom Demos (English)
 
-**Live: <https://uhygyuf.github.io/algorithm-class-demos/>**
+**Live: <https://hanwang-ai.github.io/algorithm-class-demos/>**
 
 Interactive, step-by-step visualizations that accompany a university **Data Structures
 course (C++)**. Pure HTML/CSS/JS — no build step, no dependencies, no
